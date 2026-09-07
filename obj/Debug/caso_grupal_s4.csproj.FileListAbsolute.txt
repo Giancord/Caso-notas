@@ -1,0 +1,16 @@
+C:\Users\UPN\Downloads\caso_grupal_s4\bin\Debug\caso_grupal_s4.exe.config
+C:\Users\UPN\Downloads\caso_grupal_s4\bin\Debug\caso_grupal_s4.exe
+C:\Users\UPN\Downloads\caso_grupal_s4\bin\Debug\caso_grupal_s4.pdb
+C:\Users\UPN\Downloads\caso_grupal_s4\obj\Debug\caso_grupal_s4.csproj.AssemblyReference.cache
+C:\Users\UPN\Downloads\caso_grupal_s4\obj\Debug\caso_grupal_s4.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Downloads\caso_grupal_s4\obj\Debug\caso_grupal_s4.exe
+C:\Users\UPN\Downloads\caso_grupal_s4\obj\Debug\caso_grupal_s4.pdb
+C:\Users\UPN\Downloads\caso_grupal_s4\obj\Debug\caso_grupal_s4.exe.config
+C:\Users\Gianc\OneDrive\Escritorio\university\ciclo 3\Fundamentos de programación\C3\caso_grupal_s4\bin\Debug\caso_grupal_s4.exe.config
+C:\Users\Gianc\OneDrive\Escritorio\university\ciclo 3\Fundamentos de programación\C3\caso_grupal_s4\bin\Debug\caso_grupal_s4.exe
+C:\Users\Gianc\OneDrive\Escritorio\university\ciclo 3\Fundamentos de programación\C3\caso_grupal_s4\bin\Debug\caso_grupal_s4.pdb
+C:\Users\Gianc\OneDrive\Escritorio\university\ciclo 3\Fundamentos de programación\C3\caso_grupal_s4\obj\Debug\caso_grupal_s4.csproj.AssemblyReference.cache
+C:\Users\Gianc\OneDrive\Escritorio\university\ciclo 3\Fundamentos de programación\C3\caso_grupal_s4\obj\Debug\caso_grupal_s4.exe.config
+C:\Users\Gianc\OneDrive\Escritorio\university\ciclo 3\Fundamentos de programación\C3\caso_grupal_s4\obj\Debug\caso_grupal_s4.csproj.CoreCompileInputs.cache
+C:\Users\Gianc\OneDrive\Escritorio\university\ciclo 3\Fundamentos de programación\C3\caso_grupal_s4\obj\Debug\caso_grupal_s4.exe
+C:\Users\Gianc\OneDrive\Escritorio\university\ciclo 3\Fundamentos de programación\C3\caso_grupal_s4\obj\Debug\caso_grupal_s4.pdb
